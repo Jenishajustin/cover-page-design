@@ -136,11 +136,11 @@ Add images and other contents using CSS record a screenshot of it.
 ```
 
 ## Output:
-![model](./coverpageop.png)
+![coverpageop](https://user-images.githubusercontent.com/119405070/214762888-95f24be1-a063-43e2-a456-5262074c39e6.png)
 <br>
 
 ## HTML Validator:
-![model](./covervalidator.png)
+![covervalidator](https://user-images.githubusercontent.com/119405070/214762910-869325f1-9fce-4b90-8838-fe8ba266edfe.png)
 <br>
 
 ## Result:
